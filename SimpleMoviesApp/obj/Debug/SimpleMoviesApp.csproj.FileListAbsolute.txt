@@ -1,0 +1,11 @@
+D:\Aurionpro\Day 12\SimpleMoviesApp\bin\Debug\SimpleMoviesApp.exe.config
+D:\Aurionpro\Day 12\SimpleMoviesApp\bin\Debug\SimpleMoviesApp.exe
+D:\Aurionpro\Day 12\SimpleMoviesApp\bin\Debug\SimpleMoviesApp.pdb
+D:\Aurionpro\Day 12\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.AssemblyReference.cache
+D:\Aurionpro\Day 12\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.SuggestedBindingRedirects.cache
+D:\Aurionpro\Day 12\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.CoreCompileInputs.cache
+D:\Aurionpro\Day 12\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.exe
+D:\Aurionpro\Day 12\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.pdb
+D:\Aurionpro\Day 12\SimpleMoviesApp\bin\Debug\MovieLibrary.dll
+D:\Aurionpro\Day 12\SimpleMoviesApp\bin\Debug\MovieLibrary.pdb
+D:\Aurionpro\Day 12\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.CopyComplete

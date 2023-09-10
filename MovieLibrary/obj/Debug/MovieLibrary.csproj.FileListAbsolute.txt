@@ -1,0 +1,6 @@
+D:\Aurionpro\Day 12\MovieLibrary\bin\Debug\MovieLibrary.dll
+D:\Aurionpro\Day 12\MovieLibrary\bin\Debug\MovieLibrary.pdb
+D:\Aurionpro\Day 12\MovieLibrary\obj\Debug\MovieLibrary.csproj.AssemblyReference.cache
+D:\Aurionpro\Day 12\MovieLibrary\obj\Debug\MovieLibrary.csproj.CoreCompileInputs.cache
+D:\Aurionpro\Day 12\MovieLibrary\obj\Debug\MovieLibrary.dll
+D:\Aurionpro\Day 12\MovieLibrary\obj\Debug\MovieLibrary.pdb
